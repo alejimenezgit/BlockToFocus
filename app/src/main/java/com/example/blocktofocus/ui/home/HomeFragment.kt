@@ -31,6 +31,7 @@ class HomeFragment : Fragment() {
         listView.adapter = adapter
 
         return root
+
     }
 
     override fun onDestroyView() {
